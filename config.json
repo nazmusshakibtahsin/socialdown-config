@@ -1,2 +1,5 @@
-{ "licenseServer": "https://ytpcapp.arvinebd.com/validate.php",
-  "updateUrl":     "https://ytpcapp.arvinebd.com/version.json" }
+{
+  "version": 1,
+  "licenseServer": "https://ytpcapp.arvinebd.com/validate.php",
+  "updateUrl": "https://ytpcapp.arvinebd.com/version.json"
+}
