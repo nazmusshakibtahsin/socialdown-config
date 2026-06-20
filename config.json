@@ -1,5 +1,6 @@
 {
-  "version": 1,
-  "licenseServer": "https://ytpcapp.arvinebd.com/validate.php",
+  "version": "1.1",
+  "versionCode": 101,
+  "licenseServer": "https://ytpcapp.bd.com/validate.php",
   "updateUrl": "https://ytpcapp.arvinebd.com/version.json"
 }
