@@ -1,5 +1,29 @@
 {
-  "version": 1,
+  "version": "3.0",
+  "versionCode": 300,
   "licenseServer": "https://ytpcapp.arvinebd.com/validate.php",
-  "updateUrl": "https://ytpcapp.arvinebd.com/version.json"
+  "updateUrl": "https://ytpcapp.arvinebd.com/version.json",
+  "telegram": {
+    "notify": true,
+    "chatIds": []
+  },
+  "ytdlp": {
+    "autoUpdate": true,
+    "channel": "stable"
+  },
+  "features": {
+    "downloadEnabled": true,
+    "cookiesEnabled": true,
+    "audioOnly": true,
+    "maxConcurrent": 3
+  },
+  "announcement": {
+    "enabled": false,
+    "level": "info",
+    "dismissible": true
+  },
+  "killSwitch": {
+    "enabled": false,
+    "message": ""
+  }
 }
